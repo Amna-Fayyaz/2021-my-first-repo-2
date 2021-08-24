@@ -3,6 +3,5 @@ Hello, git!
 
 Challenge Question
 
-This is from github
-
 great REDAME
+This is from Github. And here is bit more
